@@ -26,6 +26,10 @@
 }
 
 .main__itm div {
-  min-width: 27%;
+  min-width: 25%;
   background-color: aqua;
+}
+
+.box {
+  border: 1px solid white;
 }
