@@ -1,0 +1,31 @@
+* {
+  margin: 0 ;
+  padding: 0;
+}
+
+.header {
+  width: 100%;
+  padding: 15px 0;
+  background-color: #e9eeec;
+}
+
+.header__itm {
+  display: flex;
+}
+
+.header__itm p {
+  margin-bottom: 0 !important;
+}
+
+.main__itm {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.main__itm div {
+  min-width: 27%;
+  background-color: aqua;
+}
